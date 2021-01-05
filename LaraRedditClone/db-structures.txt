@@ -1,0 +1,35 @@
+users
+
+posts
+
+communities
+
+topics
+
+post_votes
+
+post_reports
+
+comments
+
+(roles)
+
+--- plan of actions : 4 milestones
+
+users
+
+topics
+communities
+
+posts
+
+comments
+votes
+reports
+
+//
+You can create a project with a specific Laravel version like this:
+
+composer create-project laravel/laravel="5.5.*" myApp
+
+
